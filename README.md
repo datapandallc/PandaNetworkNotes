@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpjbHQ3bWx4NWRxYmN5eW43Y2JtazhxY2oxcGlxYXBjZHEyeGRlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KLFzCSOfW7AVKMlDJ5/giphy.gif" width="300"/>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=PandaNetworkNotes&style=flat-square&color=blue" alt=""/>
-   <a href="https://threads.net/xxsfinding">
+   <a href="https://www.threads.net/@xssfinding)">
     <img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Threads Badge"/>
        <a href="https://instagram.com/xxsfinding">
     <img src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
