@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=PandaNetworkNotes&style=flat-square&color=blue" alt=""/>
    <a href="https://threads.net/xxsfinding">
     <img src="https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Threads Badge"/>
+       <a href="https://instagram.com/xxsfinding">
+    <img src="https://img.shields.io/badge/Instagram-Red?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
   </a>
   <h1>
   As salaamu alaikum
