@@ -11,7 +11,7 @@
   As salaamu alaikum
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h2> I'm Tunji of  Data Panda Network, thanks for visiting my page. I'm an aspiring network engineer who is currently learning the ins and outs of network computering and Javascript. I also have a keen interest in cyber. Which I will explore later on down the line in my career. God willing.
+  <h2> I'm Tunji of  Data Panda Network, thanks for visiting my page. I'm an aspiring network engineer who is currently learning the ins and outs of network computering and the programming langauge "Go". I also have a keen interest in cyber. Which I will explore later on down the line in my career. God willing.
     I hope you enjoy the ride.
 </div>
 </div>
